@@ -1,1 +1,1 @@
-this is a test repo
+We are working on git practice.
